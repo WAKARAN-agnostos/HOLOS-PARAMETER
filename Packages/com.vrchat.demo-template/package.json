@@ -1,13 +1,13 @@
 {
-  "name": "com.vrchat.demo-template",
+  "name": "com.vrchat.HOLOS-PARAMETER",
   "displayName": "VRChat Example Package",
-  "version": "0.0.7",
-  "unity": "2022.3",
-  "description": "Simple Package for testing Automation",
+  "version": "0.0.1",
+  "unity": "2022.3.22f1",
+  "description": "てすと",
   "vrchatVersion": "2022.1.1",
   "author": {
-    "name": "Momo the Monster",
-    "email": "momodmonster@gmail.com",
-    "url": "https://mmmlabs.com"
+    "name": "wakaran",
+    "email": "",
+    "url": "https://agnostos.booth.pm/"
   }
 }
