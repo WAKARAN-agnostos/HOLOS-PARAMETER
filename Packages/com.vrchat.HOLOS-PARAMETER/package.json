@@ -1,9 +1,8 @@
 {
   "name": "holos-parameter",
   "displayName": "holos-parameter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Describe this Package",
-  "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": "3.8.0"
