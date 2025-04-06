@@ -1,0 +1,19 @@
+{
+  "name": "holos-parameter",
+  "displayName": "holos-parameter",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.8.0"
+  },
+  "author": {
+    "name": "wakaran",
+    "email": "agnostos.wakaran@gmail.com",
+    "url": "https://agnostos.booth.pm/"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "F:\\unity\\project\\lantine\\Packages\\holos-parameter"
+}
